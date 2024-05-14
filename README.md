@@ -20,7 +20,7 @@ The Doctor System is a comprehensive software application developed in C# to ass
 2. Clone this repository to your local machine
 
 ```bash
-git clone https://github.com/your-username/doctor-system.git
+git clone https://github.com/AmirFukman/Medical-Diagnostic.git
 cd doctor-system
 ```
 3. Open the solution file (DoctorSystem.sln) in Visual Studio.
